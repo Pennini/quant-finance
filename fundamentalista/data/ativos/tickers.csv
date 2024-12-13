@@ -1,0 +1,356 @@
+ticker,setor,subsetor
+VAMO3,Bens Industriais,Comercio
+WLMM3,Bens Industriais,Comercio
+VLID3,Bens Industriais,Construcao E Engenharia
+ETER3,Bens Industriais,Construcao E Engenharia
+AZEV4,Bens Industriais,Construcao E Engenharia
+MILS3,Bens Industriais,Construcao E Engenharia
+PRNR3,Bens Industriais,Construcao E Engenharia
+PTBL3,Bens Industriais,Construcao E Engenharia
+GGPS3,Bens Industriais,Construcao E Engenharia
+SOND6,Bens Industriais,Construcao E Engenharia
+ALPK3,Bens Industriais,Construcao E Engenharia
+ARML3,Bens Industriais,Construcao E Engenharia
+ATMP3,Bens Industriais,Construcao E Engenharia
+HAGA4,Bens Industriais,Construcao E Engenharia
+NINJ3,Bens Industriais,Construcao E Engenharia
+TCNO3,Bens Industriais,Construcao E Engenharia
+DTCY3,Bens Industriais,Construcao E Engenharia
+PCBU3,Bens Industriais,Construcao E Engenharia
+ICBR3,Bens Industriais,Construcao E Engenharia
+WEGE3,Bens Industriais,Maquinas E Equipamentos
+KEPL3,Bens Industriais,Maquinas E Equipamentos
+ROMI3,Bens Industriais,Maquinas E Equipamentos
+TASA3,Bens Industriais,Maquinas E Equipamentos
+SHUL4,Bens Industriais,Maquinas E Equipamentos
+CBAV3,Bens Industriais,Maquinas E Equipamentos
+MTSA4,Bens Industriais,Maquinas E Equipamentos
+AERI3,Bens Industriais,Maquinas E Equipamentos
+EALT4,Bens Industriais,Maquinas E Equipamentos
+FRIO3,Bens Industriais,Maquinas E Equipamentos
+INEP4,Bens Industriais,Maquinas E Equipamentos
+MATD3,Bens Industriais,Maquinas E Equipamentos
+BDLL4,Bens Industriais,Maquinas E Equipamentos
+NORD3,Bens Industriais,Maquinas E Equipamentos
+STTR3,Bens Industriais,Maquinas E Equipamentos
+POMO4,Bens Industriais,Material De Transporte
+RAPT4,Bens Industriais,Material De Transporte
+FRAS3,Bens Industriais,Material De Transporte
+EMBR3,Bens Industriais,Material De Transporte
+TUPY3,Bens Industriais,Material De Transporte
+RSUL4,Bens Industriais,Material De Transporte
+RCSL4,Bens Industriais,Material De Transporte
+MWET4,Bens Industriais,Material De Transporte
+CSUD3,Bens Industriais,Servicos
+STBP3,Bens Industriais,Transportes
+TGMA3,Bens Industriais,Transportes
+CCRO3,Bens Industriais,Transportes
+RAIL3,Bens Industriais,Transportes
+AZUL4,Bens Industriais,Transportes
+ECOR3,Bens Industriais,Transportes
+GOLL4,Bens Industriais,Transportes
+PORT3,Bens Industriais,Transportes
+JSLG3,Bens Industriais,Transportes
+HBSA3,Bens Industriais,Transportes
+TPIS3,Bens Industriais,Transportes
+MRSA3B,Bens Industriais,Transportes
+LOGN3,Bens Industriais,Transportes
+VSPT3,Bens Industriais,Transportes
+LUXM4,Bens Industriais,Transportes
+LEVE3,Consumo Ciclico,Automoveis E Motocicletas
+MYPK3,Consumo Ciclico,Automoveis E Motocicletas
+PLAS3,Consumo Ciclico,Automoveis E Motocicletas
+LREN3,Consumo Ciclico,Comercio
+AMER3,Consumo Ciclico,Comercio
+HYPE3,Consumo Ciclico,Comercio
+WHRL4,Consumo Ciclico,Comercio
+AZZA3,Consumo Ciclico,Comercio
+CGRA4,Consumo Ciclico,Comercio
+BHIA3,Consumo Ciclico,Comercio
+CEAB3,Consumo Ciclico,Comercio
+SBFG3,Consumo Ciclico,Comercio
+AMAR3,Consumo Ciclico,Comercio
+GUAR3,Consumo Ciclico,Comercio
+ENJU3,Consumo Ciclico,Comercio
+VSTE3,Consumo Ciclico,Comercio
+JHSF3,Consumo Ciclico,Construcao Civil
+MTRE3,Consumo Ciclico,Construcao Civil
+MELK3,Consumo Ciclico,Construcao Civil
+LAVV3,Consumo Ciclico,Construcao Civil
+CYRE3,Consumo Ciclico,Construcao Civil
+EVEN3,Consumo Ciclico,Construcao Civil
+EZTC3,Consumo Ciclico,Construcao Civil
+MRVE3,Consumo Ciclico,Construcao Civil
+CURY3,Consumo Ciclico,Construcao Civil
+MDNE3,Consumo Ciclico,Construcao Civil
+TRIS3,Consumo Ciclico,Construcao Civil
+DIRR3,Consumo Ciclico,Construcao Civil
+HBOR3,Consumo Ciclico,Construcao Civil
+TEND3,Consumo Ciclico,Construcao Civil
+GFSA3,Consumo Ciclico,Construcao Civil
+TCSA3,Consumo Ciclico,Construcao Civil
+PDGR3,Consumo Ciclico,Construcao Civil
+VIVR3,Consumo Ciclico,Construcao Civil
+AVLL3,Consumo Ciclico,Construcao Civil
+RDNI3,Consumo Ciclico,Construcao Civil
+JFEN3,Consumo Ciclico,Construcao Civil
+RSID3,Consumo Ciclico,Construcao Civil
+CRDE3,Consumo Ciclico,Construcao Civil
+MOVI3,Consumo Ciclico,Diversos
+RENT3,Consumo Ciclico,Diversos
+COGN3,Consumo Ciclico,Diversos
+ANIM3,Consumo Ciclico,Diversos
+YDUQ3,Consumo Ciclico,Diversos
+CSED3,Consumo Ciclico,Diversos
+SEER3,Consumo Ciclico,Diversos
+VTRU3,Consumo Ciclico,Diversos
+BAHI3,Consumo Ciclico,Diversos
+MEAL3,Consumo Ciclico,Hoteis E Restaurantes
+ZAMP3,Consumo Ciclico,Hoteis E Restaurantes
+HOOT4,Consumo Ciclico,Hoteis E Restaurantes
+MSPA4,Consumo Ciclico,Midia
+GRND3,Consumo Ciclico,Tecidos Vestuario E Calcados
+VULC3,Consumo Ciclico,Tecidos Vestuario E Calcados
+TECN3,Consumo Ciclico,Tecidos Vestuario E Calcados
+VIVA3,Consumo Ciclico,Tecidos Vestuario E Calcados
+CAMB3,Consumo Ciclico,Tecidos Vestuario E Calcados
+PTNT4,Consumo Ciclico,Tecidos Vestuario E Calcados
+ALPA4,Consumo Ciclico,Tecidos Vestuario E Calcados
+TFCO4,Consumo Ciclico,Tecidos Vestuario E Calcados
+CEDO3,Consumo Ciclico,Tecidos Vestuario E Calcados
+MNDL3,Consumo Ciclico,Tecidos Vestuario E Calcados
+SGPS3,Consumo Ciclico,Tecidos Vestuario E Calcados
+CTNM4,Consumo Ciclico,Tecidos Vestuario E Calcados
+CTSA3,Consumo Ciclico,Tecidos Vestuario E Calcados
+DOHL4,Consumo Ciclico,Tecidos Vestuario E Calcados
+CTKA4,Consumo Ciclico,Tecidos Vestuario E Calcados
+ECPR3,Consumo Ciclico,Tecidos Vestuario E Calcados
+TXRX4,Consumo Ciclico,Tecidos Vestuario E Calcados
+TEKA4,Consumo Ciclico,Tecidos Vestuario E Calcados
+MGLU3,Consumo Ciclico,Utilidades Domesticas
+UCAS3,Consumo Ciclico,Utilidades Domesticas
+WEST3,Consumo Ciclico,Utilidades Domesticas
+MBLY3,Consumo Ciclico,Utilidades Domesticas
+HETA4,Consumo Ciclico,Utilidades Domesticas
+CVCB3,Consumo Ciclico,Viagens E Lazer
+BMKS3,Consumo Ciclico,Viagens E Lazer
+SMFT3,Consumo Ciclico,Viagens E Lazer
+SHOW3,Consumo Ciclico,Viagens E Lazer
+AHEB3,Consumo Ciclico,Viagens E Lazer
+ESTR4,Consumo Ciclico,Viagens E Lazer
+AGRO3,Consumo Nao Ciclico,Agropecuaria
+SLCE3,Consumo Nao Ciclico,Agropecuaria
+SOJA3,Consumo Nao Ciclico,Agropecuaria
+TTEN3,Consumo Nao Ciclico,Agropecuaria
+VITT3,Consumo Nao Ciclico,Agropecuaria
+AGXY3,Consumo Nao Ciclico,Agropecuaria
+LAND3,Consumo Nao Ciclico,Agropecuaria
+FRTA3,Consumo Nao Ciclico,Agropecuaria
+GRAO3,Consumo Nao Ciclico,Agropecuaria
+MRFG3,Consumo Nao Ciclico,Alimentos Processados
+RAIZ4,Consumo Nao Ciclico,Alimentos Processados
+JBSS3,Consumo Nao Ciclico,Alimentos Processados
+JALL3,Consumo Nao Ciclico,Alimentos Processados
+BEEF3,Consumo Nao Ciclico,Alimentos Processados
+CAML3,Consumo Nao Ciclico,Alimentos Processados
+SMTO3,Consumo Nao Ciclico,Alimentos Processados
+MDIA3,Consumo Nao Ciclico,Alimentos Processados
+BRFS3,Consumo Nao Ciclico,Alimentos Processados
+JOPA3,Consumo Nao Ciclico,Alimentos Processados
+MNPR3,Consumo Nao Ciclico,Alimentos Processados
+BAUH4,Consumo Nao Ciclico,Alimentos Processados
+ABEV3,Consumo Nao Ciclico,Bebidas
+PCAR3,Consumo Nao Ciclico,Comercio E Distribuicao
+ASAI3,Consumo Nao Ciclico,Comercio E Distribuicao
+CRFB3,Consumo Nao Ciclico,Comercio E Distribuicao
+MDRO3,Consumo Nao Ciclico,Comercio E Distribuicao
+PETZ3,Consumo Nao Ciclico,Diversos
+GMAT3,Consumo Nao Ciclico,Diversos
+LJQQ3,Consumo Nao Ciclico,Diversos
+SLED4,Consumo Nao Ciclico,Diversos
+NTCO3,Consumo Nao Ciclico,Produtos De Uso Pessoal E De Limpeza
+BOBR4,Consumo Nao Ciclico,Produtos De Uso Pessoal E De Limpeza
+SYNE3,Financeiro,Exploracao De Imoveis
+MULT3,Financeiro,Exploracao De Imoveis
+LOGG3,Financeiro,Exploracao De Imoveis
+HBTS5,Financeiro,Exploracao De Imoveis
+PLPL3,Financeiro,Exploracao De Imoveis
+HBRE3,Financeiro,Exploracao De Imoveis
+IGTI3,Financeiro,Exploracao De Imoveis
+SCAR3,Financeiro,Exploracao De Imoveis
+LPSB3,Financeiro,Exploracao De Imoveis
+IGBR3,Financeiro,Exploracao De Imoveis
+GSHP3,Financeiro,Exploracao De Imoveis
+NEXP3,Financeiro,Exploracao De Imoveis
+EMCC3,Financeiro,Exploracao De Imoveis
+ITSA4,Financeiro,Holdings Diversificadas
+BRAP4,Financeiro,Holdings Diversificadas
+SIMH3,Financeiro,Holdings Diversificadas
+EPAR3,Financeiro,Holdings Diversificadas
+PEAB3,Financeiro,Holdings Diversificadas
+MOAR3,Financeiro,Holdings Diversificadas
+BLUT4,Financeiro,Holdings Diversificadas
+LIQO3,Financeiro,Holdings Diversificadas
+BBAS3,Financeiro,Intermediarios Financeiros
+ITUB4,Financeiro,Intermediarios Financeiros
+BBDC3,Financeiro,Intermediarios Financeiros
+ABCB4,Financeiro,Intermediarios Financeiros
+BMGB4,Financeiro,Intermediarios Financeiros
+SANB11,Financeiro,Intermediarios Financeiros
+BRSR6,Financeiro,Intermediarios Financeiros
+BEES3,Financeiro,Intermediarios Financeiros
+BPAC11,Financeiro,Intermediarios Financeiros
+PINE4,Financeiro,Intermediarios Financeiros
+BRBI11,Financeiro,Intermediarios Financeiros
+BAZA3,Financeiro,Intermediarios Financeiros
+BGIP4,Financeiro,Intermediarios Financeiros
+BMEB4,Financeiro,Intermediarios Financeiros
+BNBR3,Financeiro,Intermediarios Financeiros
+BPAN4,Financeiro,Intermediarios Financeiros
+BMIN4,Financeiro,Intermediarios Financeiros
+BSLI3,Financeiro,Intermediarios Financeiros
+MERC4,Financeiro,Intermediarios Financeiros
+MODL11,Financeiro,Intermediarios Financeiros
+ESPA3,Financeiro,Outros
+ATOM3,Financeiro,Outros
+HVAN3,Financeiro,Outros
+G2DI33,Financeiro,Outros
+DOTZ3,Financeiro,Outros
+FIGE3,Financeiro,Outros
+WNBR3,Financeiro,Outros
+MAPT4,Financeiro,Outros
+BBSE3,Financeiro,Previdencia E Seguros
+CXSE3,Financeiro,Previdencia E Seguros
+PSSA3,Financeiro,Previdencia E Seguros
+WIZC3,Financeiro,Previdencia E Seguros
+IRBR3,Financeiro,Previdencia E Seguros
+CSAB4,Financeiro,Previdencia E Seguros
+B3SA3,Financeiro,Servicos Financeiros Diversos
+PDTC3,Financeiro,Servicos Financeiros Diversos
+RPAD3,Financeiro,Servicos Financeiros Diversos
+PPLA11,Financeiro,Servicos Financeiros Diversos
+KLBN11,Materiais Basicos,Madeira E Papel
+RANI3,Materiais Basicos,Madeira E Papel
+SUZB3,Materiais Basicos,Madeira E Papel
+DXCO3,Materiais Basicos,Madeira E Papel
+EUCA3,Materiais Basicos,Madeira E Papel
+SNSY3,Materiais Basicos,Materiais Diversos
+VALE3,Materiais Basicos,Mineracao
+CMIN3,Materiais Basicos,Mineracao
+AURA33,Materiais Basicos,Mineracao
+MMXM3,Materiais Basicos,Mineracao
+UNIP6,Materiais Basicos,Quimicos
+BRKM5,Materiais Basicos,Quimicos
+CRPG5,Materiais Basicos,Quimicos
+DEXP3,Materiais Basicos,Quimicos
+FHER3,Materiais Basicos,Quimicos
+NUTR3,Materiais Basicos,Quimicos
+GOAU4,Materiais Basicos,Siderurgia E Metalurgia
+GGBR3,Materiais Basicos,Siderurgia E Metalurgia
+FESA4,Materiais Basicos,Siderurgia E Metalurgia
+CSNA3,Materiais Basicos,Siderurgia E Metalurgia
+USIM5,Materiais Basicos,Siderurgia E Metalurgia
+PMAM3,Materiais Basicos,Siderurgia E Metalurgia
+PATI3,Materiais Basicos,Siderurgia E Metalurgia
+TKNO4,Materiais Basicos,Siderurgia E Metalurgia
+MGEL4,Materiais Basicos,Siderurgia E Metalurgia
+PETR4,Petroleo Gas E Biocombustiveis,Petroleo Gas E Biocombustiveis
+CSAN3,Petroleo Gas E Biocombustiveis,Petroleo Gas E Biocombustiveis
+PRIO3,Petroleo Gas E Biocombustiveis,Petroleo Gas E Biocombustiveis
+VBBR3,Petroleo Gas E Biocombustiveis,Petroleo Gas E Biocombustiveis
+RECV3,Petroleo Gas E Biocombustiveis,Petroleo Gas E Biocombustiveis
+BRAV3,Petroleo Gas E Biocombustiveis,Petroleo Gas E Biocombustiveis
+UGPA3,Petroleo Gas E Biocombustiveis,Petroleo Gas E Biocombustiveis
+LUPA3,Petroleo Gas E Biocombustiveis,Petroleo Gas E Biocombustiveis
+RPMG3,Petroleo Gas E Biocombustiveis,Petroleo Gas E Biocombustiveis
+OSXB3,Petroleo Gas E Biocombustiveis,Petroleo Gas E Biocombustiveis
+RADL3,Saude,Comercio E Distribuicao
+PFRM3,Saude,Comercio E Distribuicao
+PGMN3,Saude,Comercio E Distribuicao
+PNVL3,Saude,Comercio E Distribuicao
+DMVF3,Saude,Comercio E Distribuicao
+BIOM3,Saude,Comercio E Distribuicao
+ONCO3,Saude,Comercio E Distribuicao
+NISS3,Saude,Comercio E Distribuicao
+ELFA3,Saude,Comercio E Distribuicao
+ALTF3,Saude,Comercio E Distribuicao
+BALM3,Saude,Equipamentos
+OFSA3,Saude,Medicamentos E Outros Produtos
+BPHA3,Saude,Medicamentos E Outros Produtos
+FLRY3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+ODPV3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+BLAU3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+VVEO3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+QUAL3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+HAPV3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+RDOR3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+ORVR3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+DASA3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+KRSA3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+AALR3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+HCAR3,Saude,Servicos Medicos Hospitalares Analises E Diagnosticos
+POSI3,Tecnologia Da Informacao,Computadores E Equipamentos
+MLAS3,Tecnologia Da Informacao,Computadores E Equipamentos
+TOTS3,Tecnologia Da Informacao,Programas E Servicos
+CASH3,Tecnologia Da Informacao,Programas E Servicos
+BMOB3,Tecnologia Da Informacao,Programas E Servicos
+NGRD3,Tecnologia Da Informacao,Programas E Servicos
+SEQL3,Tecnologia Da Informacao,Programas E Servicos
+LWSA3,Tecnologia Da Informacao,Programas E Servicos
+MOSI3,Tecnologia Da Informacao,Programas E Servicos
+VIVT3,Telecomunicacoes,Telecomunicacoes
+ALLD3,Telecomunicacoes,Telecomunicacoes
+TIMS3,Telecomunicacoes,Telecomunicacoes
+FIQE3,Telecomunicacoes,Telecomunicacoes
+OIBR3,Telecomunicacoes,Telecomunicacoes
+INTB3,Telecomunicacoes,Telecomunicacoes
+IFCM3,Telecomunicacoes,Telecomunicacoes
+BRST3,Telecomunicacoes,Telecomunicacoes
+DESK3,Telecomunicacoes,Telecomunicacoes
+ELMD3,Telecomunicacoes,Telecomunicacoes
+LVTC3,Telecomunicacoes,Telecomunicacoes
+CLSA3,Telecomunicacoes,Telecomunicacoes
+TELB3,Telecomunicacoes,Telecomunicacoes
+TRAD3,Telecomunicacoes,Telecomunicacoes
+GENT3,Telecomunicacoes,Telecomunicacoes
+CSMG3,Utilidade Publica,Agua E Saneamento
+SAPR11,Utilidade Publica,Agua E Saneamento
+SBSP3,Utilidade Publica,Agua E Saneamento
+AMBP3,Utilidade Publica,Agua E Saneamento
+OPCT3,Utilidade Publica,Agua E Saneamento
+CASN3,Utilidade Publica,Agua E Saneamento
+TAEE11,Utilidade Publica,Energia Eletrica
+CMIG4,Utilidade Publica,Energia Eletrica
+ISAE4,Utilidade Publica,Energia Eletrica
+AURE3,Utilidade Publica,Energia Eletrica
+EGIE3,Utilidade Publica,Energia Eletrica
+CPLE6,Utilidade Publica,Energia Eletrica
+CPFE3,Utilidade Publica,Energia Eletrica
+AESB3,Utilidade Publica,Energia Eletrica
+NEOE3,Utilidade Publica,Energia Eletrica
+ALUP11,Utilidade Publica,Energia Eletrica
+CEBR3,Utilidade Publica,Energia Eletrica
+ELET3,Utilidade Publica,Energia Eletrica
+EQTL3,Utilidade Publica,Energia Eletrica
+RNEW4,Utilidade Publica,Energia Eletrica
+ENGI11,Utilidade Publica,Energia Eletrica
+REDE3,Utilidade Publica,Energia Eletrica
+EQPA3,Utilidade Publica,Energia Eletrica
+EKTR3,Utilidade Publica,Energia Eletrica
+CEEB3,Utilidade Publica,Energia Eletrica
+CLSC4,Utilidade Publica,Energia Eletrica
+ENEV3,Utilidade Publica,Energia Eletrica
+GEPA4,Utilidade Publica,Energia Eletrica
+LIGT3,Utilidade Publica,Energia Eletrica
+SRNA3,Utilidade Publica,Energia Eletrica
+ENMT4,Utilidade Publica,Energia Eletrica
+EMAE4,Utilidade Publica,Energia Eletrica
+GPAR3,Utilidade Publica,Energia Eletrica
+CBEE3,Utilidade Publica,Energia Eletrica
+AFLT3,Utilidade Publica,Energia Eletrica
+COCE5,Utilidade Publica,Energia Eletrica
+CEED3,Utilidade Publica,Energia Eletrica
+RIOS3,Utilidade Publica,Energia Eletrica
+EQMA3B,Utilidade Publica,Energia Eletrica
+CGAS3,Utilidade Publica,Gas
+CEGR3,Utilidade Publica,Gas
